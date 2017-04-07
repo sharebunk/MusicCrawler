@@ -5,6 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "cheerio": "^0.22.0",
+    "download": "^5.0.3",
     "lodash": "^4.17.4",
     "request": "^2.81.0",
     "request-promise": "^4.2.0"
