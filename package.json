@@ -1,0 +1,23 @@
+{
+  "name": "music_crawler",
+  "version": "1.0.0",
+  "description": "crawls the internet for trending Nigerian music",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nigerian",
+    "music",
+    "crawler"
+  ],
+  "author": "Bnic3",
+  "license": "ISC"
+}
